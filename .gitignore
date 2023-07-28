@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Noto-Web/appsettings.json
+/Noto-Web/ClientApp/.env
+/Noto-Web/ClientApp/.env.development
